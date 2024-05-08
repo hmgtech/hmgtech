@@ -35,5 +35,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2560px-Keras_logo.svg.png" width="40" height="40"><img src="https://pjreddie.com/media/image/yologo_2.png" width="50" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40">
 
 
+# Leetcode
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=hiteshgupta2198}&theme={dark}" alt="LeetCode Badges"/>
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
