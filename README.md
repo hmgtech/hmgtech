@@ -36,6 +36,6 @@
 
 
 # Leetcode
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=hiteshgupta2198}&theme={dark}" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=hiteshgupta2198&theme=dark&border=border" alt="LeetCode Badges"/>
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
