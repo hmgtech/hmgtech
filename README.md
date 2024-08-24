@@ -12,7 +12,7 @@
 
 <h3 align="left">🌐 Let's connect on</h3>
 
-  <a href="https://linkedin.com/in/hitesh-gupta-0878b3173" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hiteshkumar-gupta-0878b3173/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/13533000/hitesh-gupta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://medium.com/@hitesh-gupta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/c/@enggtech" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>&nbsp;&nbsp;
